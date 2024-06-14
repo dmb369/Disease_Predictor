@@ -7,7 +7,7 @@
 2. feature_1 to feature_n: Anonymized patient features
 3. diagnosis: Target variable (0 = no disease, 1 = disease)
    
-# Instructions:
+## Instructions:
 
 ## Download the Dataset:
 1. Load the training dataset.
